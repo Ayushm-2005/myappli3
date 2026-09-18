@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myappli3</string>
+    <string name="activity_lifecycle_demo">activity_lifecycle_demo</string>
+    <string name="activity_lifecycle_log">activity_lifecycle_log</string>
+</resources>
